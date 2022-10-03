@@ -3,7 +3,7 @@ entries:
   teste1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-03T04:15:34.191439971-03:00"
+    created: "2022-10-03T04:18:35.042398937-03:00"
     description: A Helm chart for Kubernetes
     digest: e01913792bda2713d7cf4e5a4b2eca9dc160524b72c445449cfa65504d08da64
     name: teste1
@@ -11,4 +11,4 @@ entries:
     urls:
     - teste1-2.tgz
     version: "2"
-generated: "2022-10-03T04:15:34.190179143-03:00"
+generated: "2022-10-03T04:18:35.041244918-03:00"
